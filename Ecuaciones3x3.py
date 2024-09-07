@@ -1,3 +1,5 @@
+#Resolución de un sistema de ecuaciones de 3 por 3 por el método de sustitución.
+
 x = []
 y = []
 z = []
